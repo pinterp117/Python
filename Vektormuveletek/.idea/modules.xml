@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Arcade/.idea/Arcade.iml" filepath="$PROJECT_DIR$/../Arcade/.idea/Arcade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Korcsolyaverseny/.idea/Korcsolyaverseny.iml" filepath="$PROJECT_DIR$/../Korcsolyaverseny/.idea/Korcsolyaverseny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Szudoku/.idea/Szudoku.iml" filepath="$PROJECT_DIR$/../Szudoku/.idea/Szudoku.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Jatekok/Talald el a szamot/.idea/Talald el a szamot.iml" filepath="$PROJECT_DIR$/../Jatekok/Talald el a szamot/.idea/Talald el a szamot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tesztprojekt/.idea/Tesztprojekt.iml" filepath="$PROJECT_DIR$/../Tesztprojekt/.idea/Tesztprojekt.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Vektormuveletek.iml" filepath="$PROJECT_DIR$/.idea/Vektormuveletek.iml" />
     </modules>
   </component>

@@ -6,6 +6,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Talald el a szamot" />
+    <orderEntry type="module" module-name="Korcsolyaverseny" />
+    <orderEntry type="module" module-name="Tesztprojekt" />
+    <orderEntry type="module" module-name="Szudoku" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
