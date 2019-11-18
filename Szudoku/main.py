@@ -1,4 +1,4 @@
-tablazat = [
+szudoku = [
     [8, 0, 1, 0, 2, 6, 0, 4, 0],
     [0, 0, 9, 8, 0, 0, 0, 2, 6],
     [0, 5, 0, 0, 7, 3, 8, 9, 1],
@@ -11,7 +11,7 @@ tablazat = [
 ]
 
 def megold(tabla):
-    print(tabla)
+    #print(tabla) # folyamat kiirasa
     talal = keres_nulla(tabla)
     if not talal:
         return True
@@ -66,8 +66,8 @@ def keres_nulla(tabla):
     return None
 
 
-print_tabla(tablazat)
+print_tabla(szudoku)
+megold(szudoku)
 print()
-megold(tablazat)
-print()
-print_tabla(tablazat)
+print("Megoldása:")
+print_tabla(szudoku)
